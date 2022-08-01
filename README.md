@@ -7,22 +7,23 @@ Languages/Frameworks learning thus far:
 
  Java
  JavaScript/TypeScript:
-   Vue framework
-   Svelte framework
-   NodeJs
-   Angular
-   NextJs
+   Vue,
+   Svelte,
+   NodeJs,
+   Angular,
+   NextJs,
  
  Rust
+ C#
  
 Languages/Frameworks in future:
-  C++
-  C
-  Kotlin
-  Swift
-  *Flutter
-  *Carbon
-  *OCaml
+  C++,
+  C,
+  Kotlin,
+  Swift,
+  *Flutter,
+  *Carbon,
+  *OCaml,
   
  
  
